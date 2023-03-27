@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>我的第一篇博客文章</title>
-      <link href="/posts/b24dd347.html"/>
-      <url>/posts/b24dd347.html</url>
+      <title>主题配置</title>
+      <link href="/posts/4a17b156.html"/>
+      <url>/posts/4a17b156.html</url>
       
-        <content type="html"><![CDATA[<p>##第一章</p><p>内容</p><p>##第二章</p><p>内容</p><p>###参考文献</p>]]></content>
+        <content type="html"><![CDATA[<hr><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
       
@@ -17,11 +17,63 @@
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/posts/4a17b156.html"/>
-      <url>/posts/4a17b156.html</url>
+      <title>夜、昏</title>
+      <link href="/posts/d95d7e09.html"/>
+      <url>/posts/d95d7e09.html</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<pre><code>难得，有这样的一个夜......真的是好久没写过东西了，翻看一下，最后一篇还是在年初...不过就是半年多的时间，发生的事情却那么多那么多那么多......人们都说生病的人会比较脆弱，总是喜欢胡思乱想...那今晚，我也借感冒着的身体，让心里所有的记忆和情绪都出来放纵一下...这样明天醒来的时候，我就会当真的以为，昨夜的确是病的烧昏了脑袋......最近跟朋友聊天，常常提到上学时候的事情，一幕幕的场景，就像昨天才发生的，多想回去... 即便早上要拖着没醒的身体去上课；即便去食堂吃饭都要被挤来挤去；即便寝室的冬天要盖三个被子才能入睡...谁会想到，那时的抱怨，竟变成了如今的奢望，永远都回不到的过去......我们累的究竟是身体，还是心呢？那时我们还知道自己想要什么，想着毕业后能有个好工作、然后和相爱的人结婚、生孩子，如此，一辈子...可现在，好像一切都变了...毕业是很容易，可好工作不是说有就有的，收入好又稳定的工作不需要你；稳定的工作收入往往不是很理想；收入好的工作又不是很稳定，如此纠结至今...到了谈婚论嫁的年龄，又发现相爱的人没了，时间让我们懂得，现实和理想是有着多么遥远的距离...细节、打败爱情......如今想要什么，连我自己都不知道...那个关于Mars的传说，也许就只是个传说吧...未来要走的路，不再幻想他来...就算荆棘，那也是我的人生，跪着，也要走完......手有些僵硬了...没供暖的夜里，只有开着电褥子的被窝里才有温暖，我得把手收回来暖暖了...吃过药的脑袋昏昏的重，睡觉吧......梦里，有海，海边是一片望不到边的薰衣草园...可以静静的坐在那傻笑，很久很久，很久很久............                                                                                                 2011年10月29日夜      随笔~</code></pre>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>淡淡的、女子</title>
+      <link href="/posts/9b0d2746.html"/>
+      <url>/posts/9b0d2746.html</url>
+      
+        <content type="html"><![CDATA[<p>　女人，似乎一辈子都讲的是爱情，念的是爱情，怨的是爱情…可谁又能真正的看透，什么是爱情呢？</p><p>　兜兜转转，无非都是徒劳…不如，就只为自己，做个如泉水般，淡淡的女子，又有什么不好呢？</p><p>　阳光明媚的午后，坐在客厅暖洋洋的沙发上，点上一支檀香，泡上一壶清茶…在行云流水间，细细品啜“六根开窍清风生，飘飘欲仙最怡人”的情调，茶韵回味悠长…</p><p>　兴致来了，坐到琴前，弹上一曲‘渔舟唱晚’…幻想着夕阳西下之时，在美丽如画的湖面上，渔民欢愉歌唱，欸乃归舟的情景…虽无人欣赏，却也自得其乐…</p><p>　阳光已经不那么刺眼了，夜，一点点的靠近着…是该去厨房准备晚餐了，不过是几道平凡的小菜…不油、不腻，清淡、爽口些就好…倒上一点点的红酒，看它在杯中摇曳着如少女般模样的动人身姿…</p><p>　饭后，拿起一件厚厚的外套，我要出去，散步了…</p><p>　就这样，做一个如泉水般，淡淡的女子好了…享受生活，爱护自己，冷暖、自知……………</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>如此、而已…</title>
+      <link href="/posts/9b0d2746.html"/>
+      <url>/posts/9b0d2746.html</url>
+      
+        <content type="html"><![CDATA[<p>新年之初，一个普通的夜晚…</p><pre><code>  退去灯红酒绿的外衣，整个城市就这样，赤裸裸的暴露在眼前…  在这浮华的背后，不论是纯洁或肮脏，我都无力探究，也更无雅致欣赏…  城市是个大舞台，我们都在努力扮演自己的角色，同时也常常讨论着别人的演技…只可惜，当我们站在舞台上，便也看不到了自己…  回眼一望，我已走过了二十多个春秋冬夏…如果一百年便是个轮回，那岂不已逝去了五分之一的生命？…  惋惜的不是时光飞快流逝，而是此时，我依然迷茫的站在十字路口，不知所措…到底该何去？何从呢？…  该不该用我的人生，赌一次…即便，这是一场看不到结果的赌局…给自己一个孤注一掷的勇气？…  得之，我幸…不得，我命…  如此而已…………………………                         2011年1月7日夜   随笔~</code></pre>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>雨、说…</title>
+      <link href="/posts/9b0d2746.html"/>
+      <url>/posts/9b0d2746.html</url>
+      
+        <content type="html"><![CDATA[<pre><code>      雨、说…</code></pre><p>  有时，外面下着雨，心却晴着</p><p>  又有时，外面晴着，心却下着雨</p><p>  世界上许多东西，让你在对比中品位…</p><p>  心晴的时候，雨也是晴的</p><p>  心雨的时候，晴也是雨的</p><p>  不过，无论怎么样的故事</p><p>  一逢上下雨，便难忘…</p><p>  雨有一种神奇</p><p>  它能弥漫成一种情调</p><p>  浸润成一种氛围</p><p>  携刻成一种记忆</p><p>  当然</p><p>­<br>                 有时也能瓢泼成一种灾难…… </p><pre><code>                              以上文字摘自《雨的随想》   作者：汪国真这场雨，从傍晚就开始零星的飘散着，似下非下...有人撑着伞，匆忙前行；也有的人，似乎在闲适散步...每个人的心里，都揣着不同的情绪，随着风或雨，散落一地...而我，只是坐在窗台上，远远的看着往来的人群...三三两两，或独自一人...渐渐的，人越来越少了，最后连一个人影，也都不见了...这雨，不同于江南小镇，下得不温柔，也不缠绵...也不同于前些日的顷盆，雷电交加的痛快...它就这样，像是被大地硬生生的拽下，不情愿，却也不抵抗...这并不是它该有的情绪，过去的你，哪里去？...本想让这雨，从心里带走些东西，却反倒，被浇乱了思绪...盛夏的深夜，偶尔吹来一阵风，会有那么一点点的，凉意...........                                    2010年7月19日 夜      随笔~~~</code></pre>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>她、很傻</title>
+      <link href="/posts/9b0d2746.html"/>
+      <url>/posts/9b0d2746.html</url>
+      
+        <content type="html"><![CDATA[<p>她、很傻</p><p>深夜的一杯热牛奶</p><p>有多大的力量</p><p>来温暖一个冰冷的身体</p><p>或者说</p><p>是来温暖一颗失去温度的心？</p><p>那个相信命中注定的女孩</p><p>她很傻</p><p>请别轻易对她说什么</p><p>你的一个不经意</p><p>也许</p><p>­她会当真……­</p>]]></content>
       
       
       
@@ -36,6 +88,17 @@
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -69,17 +132,6 @@
       <title>音乐</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
