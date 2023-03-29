@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>给小宝的礼物</title>
+</head>
+<style>
+    * {
+        padding: 0;
+        margin: 0;
+    }
+    .shell{
+        height: 100vh;
+        overflow-x: hidden;
+        perspective: 3px;
+    }
+    .shell div{
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-style: 30px;
+        letter-spacing: 2px;
+    }
+    .image{
+        transform: translateZ(-1px) scale(1.6);
+        background-size: cover;
+        height: 100vh;
+        z-index: -1;
+    }
+    .text{
+        height: 50vh;
+        background-color: #fff;
+    }
+    .text h1{
+        color: #000000;
+    }
+    .heading{
+        z-index: -1;
+        transform: translateY(-30vh) translateZ(1px);
+        color: #fff;
+        font-size: 30px;
+    }
+</style>
+
+<body>
+    <div class="shell">
+        <div class="image" style="background-image: url('./1.jpg');"></div>
+        <div class="heading">
+            <h1>2020.10.01`朝圣之旅</h1>
+        </div>
+        <div class="text">
+            <h1>愿众生·离苦得乐·证悟佛果</h1>
+        </div>
+
+        <div class="image" style="background-image: url('./2.jpg');"></div>
+        <div class="heading">
+            <h1>超脱轮回·到达彼岸</h1>
+        </div>
+        <div class="text">
+            <h1>功德回向给六道众生</h1>
+        </div>
+
+        <div class="image" style="background-image: url('./3.jpg');"></div>
+        <div class="heading">
+            <h1>祈请上师三宝的加持</h1>
+        </div>
+        <div class="text">
+            <h1>勤修戒定慧·熄灭贪嗔痴</h1>
+        </div>
+
+        <div class="image" style="background-image: url('./4.jpg');"></div>
+        <div class="heading">
+            <h1>与我们共同见证</h1>
+        </div>
+    </div>
+</body>
+
+</html> 
